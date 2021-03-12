@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "6510.nl on GitHub":
+  "6510.nl op GitHub":
     - "//github.com/berrydejager/6510.nl"
 
 # Makes Aux links open in a new tab. Default is false
